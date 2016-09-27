@@ -1,0 +1,47 @@
+a{
+    font-family:Impact;
+    color:white;
+    position:relative;
+    left:20px;
+}
+h1{
+    font-family:Impact;
+    color:white;
+    text-align:center;
+}
+html{
+    background-color:#1a1a1a;
+}
+table{
+    border-style:groove;
+    border-color:black;
+    font-family:"Courier New";
+    color:white;
+    text-align:center;
+    float:inherit;
+    position:relative;
+    left:15px;
+}
+img{
+    float:left;
+}
+h2{font-family:Impact;
+    color:white;
+    text-align:left;
+    position:relative;
+    left:15px;
+}    
+h3{
+    font-family:Impact;
+    color:white;
+    text-align:left;
+    clear:both;
+}
+p{
+    font-family:Charcoal;
+    color:white;
+}
+li{
+    font-family:Charcoal;
+    color:white;
+}
