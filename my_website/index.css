@@ -16,7 +16,8 @@
     font-family:Impact;
     color:black;
 }
-a{
+.projects{
+    padding:0px 10px;
     font-family:Impact;
     color:black;
 }
@@ -41,36 +42,11 @@ h1{
 html{
     background-color:#1a1a1a;
 }
-table{
-    border-style:groove;
-    border-color:black;
-    font-family:"Courier New";
-    color:white;
-    text-align:center;
-    float:inherit;
-    position:relative;
-    left:15px;
-}
-#profile{
-    float:left;
-}
-#pic{
-    position:absolute;
-    left:45em;
-    bottom:12.9em;
-}
 div{
     position:absolute;
     left:66.65em;
     bottom:16.5em;
 }
-#info{
-    font-family:Impact;
-    color:white;
-    text-align:left;
-    position:relative;
-    left:15px;
-}    
 h2{
     font-family:Impact;
     color:white;
@@ -81,12 +57,8 @@ h3{
     color:white;
     text-align:left;
 }
-#quote{
-    font-family:"Brush Script MT",cursive;
-    color:white;
-    font-size:25px;
-}
 p{
+    text-align:center;
     font-family:Charcoal;
     color:white;
 }
