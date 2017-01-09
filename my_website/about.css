@@ -57,13 +57,13 @@ table{
 }
 #pic{
     position:absolute;
-    left:43em;
-    bottom:7.6em;
+    left:75%;
+    bottom:75%;
 }
 div{
     position:absolute;
-    left:64.65em;
-    bottom:11.7em;
+    left:0em;
+    bottom:0em;
 }
 #info{
     font-family:Impact;
