@@ -1,0 +1,101 @@
+/* Style the tab buttons*/
+/*
+.Tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 17px;
+    width:25%;
+}
+.Tablink:hover { 
+    background-color: #777;}
+
+.tabcontent {
+    color: white;
+    display: none;
+    padding: 50px;
+    text-align:center;
+}
+
+#London {background-color: red;}
+#Paris {background-color: green;}
+#Tokyo {background-color: blue;}
+#olso {background-color:orange;}
+*/
+.timeline{
+    text-align:left;
+    position:relative;
+    left:30%;
+    bottom:5em;
+}
+.left{
+    position:relative;
+    left:5%;
+}
+
+.right{
+    position:relative;
+    left:22%;
+}
+.stat{
+    max-width:40em;
+}
+.box{
+    max-width:20em;
+}
+.boxa{
+    max-width:30em;
+}
+li{
+    list-style-type:none;
+    color:white;
+    font-size:18px;
+}
+
+p{
+    font-family:Courier;
+    color:white;
+    font-size:18px;
+}
+h1{
+    font-family:Courier;
+    color:white;
+}
+h2{
+    font-family:Courier;
+    color:white;
+}
+h3{
+    font-family:Courier;
+    color:white;
+}
+#desc1{
+    position:relative;
+    left:26em;
+    bottom:29em;
+}
+#desc2{
+    position:relative;
+    left:29em;
+    bottom:26em;
+}
+#desc3{
+    position:relative;
+    left:47em;
+    bottom:26em;
+}
+img{
+    position:relative;
+}
+#info{
+    position:relative;
+    left:32em;
+    bottom:16em;
+}
+html{
+    background-image:url("images/images.jpg");
+}
